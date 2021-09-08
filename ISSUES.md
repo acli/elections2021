@@ -17,7 +17,8 @@ Basic income
 Climate
 =======
 Transit
-- [TTC Riders election toolkit](https://thetyee.ca/Topic/Election2021/)
+- [TTC Riders election toolkit request form](https://thetyee.ca/Topic/Election2021/)
+  (this is way too much work, I’m probably not going to bother)
 
 Other references
 ================
