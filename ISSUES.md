@@ -6,6 +6,8 @@ Foreign interference
 
 Equity
 ======
+Indigenous issues
+
 Internet access
 - [OpenMedia issues list](https://thetyee.ca/Topic/Election2021/)
 
@@ -23,3 +25,4 @@ Transit
 Other references
 ================
 - [The Tyre](https://thetyee.ca/Topic/Election2021/)
+  - [According to one prof, strategic voting doesn’t actually work](https://thetyee.ca/Analysis/2021/08/30/Does-Strategic-Voting-Actually-Work/)
