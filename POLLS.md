@@ -5,3 +5,9 @@ Pro:
 
 Cons:
 - from Martin Oei
+
+
+Poll results
+============
+- [at the beginning](https://www.ctvnews.ca/politics/federal-election-2021/o-toole-a-political-freight-train-as-conservatives-take-clear-lead-nanos-1.5572456)
+- [now](https://newsinteractives.cbc.ca/elections/poll-tracker/canada/)
