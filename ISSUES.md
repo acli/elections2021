@@ -15,8 +15,9 @@ Basic income
 - [TVO survey questions and results](https://www.tvo.org/article/will-basic-income-get-its-due-on-the-campaign-trail)
   and
   [UBI petition](https://www.basicincomenow.ca/sign_on)
-- [UBI CTA](ttps://www.basicincomenow.ca/push_your_candidates)
+- [UBI CTA](https://www.basicincomenow.ca/push_your_candidates)
 - [UBI survey results](https://www.basicincomenow.ca/pledge)
+  - NDP
 
 Climate
 =======
