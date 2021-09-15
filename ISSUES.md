@@ -3,7 +3,7 @@ Foreign interference
 - [Can Xi Not survey questions](https://canxinot.weebly.com/)
   and
   [results](https://docs.google.com/spreadsheets/d/1g_wQQXxd3r8zP1EUDsAYcevriSFx1RpUgd2xhvRYERw/edit?usp=sharing)
-  - NDP: yes, others: no response
+  - NDP: [yes](https://drive.google.com/file/d/1bSK3FBzfCF3-s9HkghbYEkJXuL8jBsts/view), others: no response
 
 Equity
 ======
