@@ -10,7 +10,9 @@ Equity
 Indigenous issues
 
 Internet access
-- [OpenMedia issues list](https://thetyee.ca/Topic/Election2021/)
+- [OpenMedia issues list](https://openmedia.org/article/item/election-2021-where-the-parties-stand-on-cell-phone-affordability)
+  and
+  [petition](https://action.openmedia.org/page/88667/petition/1)
 
 Basic income
 - [TVO survey questions and results](https://www.tvo.org/article/will-basic-income-get-its-due-on-the-campaign-trail)
