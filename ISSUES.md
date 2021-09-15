@@ -3,6 +3,7 @@ Foreign interference
 - [Can Xi Not survey questions](https://canxinot.weebly.com/)
   and
   [results](https://docs.google.com/spreadsheets/d/1g_wQQXxd3r8zP1EUDsAYcevriSFx1RpUgd2xhvRYERw/edit?usp=sharing)
+  - NDP: yes, others: no response
 
 Equity
 ======
@@ -17,7 +18,7 @@ Basic income
   [UBI petition](https://www.basicincomenow.ca/sign_on)
 - [UBI CTA](https://www.basicincomenow.ca/push_your_candidates)
 - [UBI survey results](https://www.basicincomenow.ca/pledge)
-  - NDP
+  - NDP: yes, others: no response
 
 Climate
 =======
